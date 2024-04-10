@@ -1,4 +1,5 @@
 # demo
 This is my second Git repository.
 <br>
-Author - Parthiv Vorpingwala
+Author - Parthiv Vorpingwala (developer)
+        
